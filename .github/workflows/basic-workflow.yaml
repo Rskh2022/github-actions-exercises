@@ -12,4 +12,4 @@ jobs:
       - name: An Error I made
         run: |
           echo "I've made an error!"
-          exit 1
+             run: echo "I've done a thing!"
